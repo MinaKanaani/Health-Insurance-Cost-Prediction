@@ -1,1 +1,3 @@
 # Health-Insurance-Cost-Prediction
+From Dawn of civilization, Healthcare and Health System has been an important aspect of every day's life. A society wouldn't simply survive without a proper Health System. Thus it is of significant importance to know that raising  health care and insurance cost is a major economics and health issue.
+In this project, I aimed to predict the cost of Health insurance for Bangladeshi's Society using Regression method based on several distinguished factors. Understanding which factors contribute to increases in health expenditures may provide insight into risk factors and potential starting points for preventive measures.
